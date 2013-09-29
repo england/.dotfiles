@@ -11,6 +11,7 @@ Bundle 'gmarik/vundle'
 Bundle 'kien/ctrlp.vim'
 Bundle 'ervandew/supertab'
 Bundle 'Solarized'
+Bundle 'fugitive.vim'
 
 filetype plugin indent on " required!
 
