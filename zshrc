@@ -49,3 +49,6 @@ source $ZSH/oh-my-zsh.sh
 # Customize to your needs...
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
+
+
+alias godesktop='ssh -p 2202 england@192.168.0.5'
