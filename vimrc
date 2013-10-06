@@ -15,6 +15,7 @@ Bundle 'christoomey/vim-tmux-navigator'
 Bundle 'molokai'
 Bundle 'delimitMate.vim'
 Bundle 'tComment'
+Bundle 'scrooloose/nerdtree'
 
 filetype plugin indent on " required!
 
